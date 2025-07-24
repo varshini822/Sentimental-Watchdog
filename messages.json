@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1753335986690",
+    "text": "The app keeps crashing every time I try to save.",
+    "sentiment": "neutral",
+    "score": 0,
+    "keywords": [],
+    "timestamp": "2025-07-24T11:16:26.690952"
+  },
+  {
+    "id": "1753335978248",
+    "text": "This app is amazing! I love the new features.",
+    "sentiment": "delighted",
+    "score": 0.6,
+    "keywords": [
+      "love",
+      "amazing"
+    ],
+    "timestamp": "2025-07-24T11:16:18.248078"
+  },
+  {
+    "id": "1753335977264",
+    "text": "The app keeps crashing every time I try to save.",
+    "sentiment": "neutral",
+    "score": 0,
+    "keywords": [],
+    "timestamp": "2025-07-24T11:16:17.264844"
+  },
+  {
+    "id": "1753335967065",
+    "text": "This app keeps crashing every time I try to login!",
+    "sentiment": "neutral",
+    "score": 0,
+    "keywords": [],
+    "timestamp": "2025-07-24T11:16:07.065810"
+  }
+]
